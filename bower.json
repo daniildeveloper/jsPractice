@@ -1,0 +1,10 @@
+{
+  "name": "jsPractice",
+  "authors": [
+    "daniiltserin"
+  ],
+  "description": "I read articles and watch tutorials. And write code.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": ""
+}
